@@ -49,4 +49,6 @@ Aplicativo de cartão de embarque digital desenvolvido em React Native, simuland
 1. Clone o repositório:
 ```bash
 git clone https://github.com/SEU_USUARIO/seu-repositorio
+
+iniciando a parte de login
 cd seu-repositorio
